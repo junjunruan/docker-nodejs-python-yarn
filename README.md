@@ -1,5 +1,5 @@
 # docker-nodejs-python-yarn
-Node.js with Python based on beevelop/nodejs-python
+#### Node.js with Python based on beevelop/nodejs-python
 
 - Ubuntu 16.04
 
@@ -11,12 +11,12 @@ Node.js with Python based on beevelop/nodejs-python
 
 - Python: 2.7.12
 
-Pull from Docker Hub:
+#### Pull from Docker Hub:
 
-$ docker pull jruan/nodejs-python-yarn:tag
+`$ docker pull jruan/nodejs-python-yarn:tag`
 
-e.g. $ docker pull jruan/nodejs-python-yarn:v1.0.0
+e.g. `$ docker pull jruan/nodejs-python-yarn:v1.0.0`
 
-Run image:
+#### Run image:
 
-$ docker run -it jruan/nodejs-python-yarn bash
+`$ docker run -it jruan/nodejs-python-yarn bash`
